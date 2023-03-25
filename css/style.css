@@ -34,6 +34,7 @@ body{
     color:rgb(253, 235, 70);
     margin-top:10px;
     margin-bottom:10px;
+    border-radius:10px;  
   }
   
   /* Header **/
