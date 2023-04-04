@@ -34,7 +34,7 @@ body{
     color:rgb(253, 235, 70);
     margin-top:10px;
     margin-bottom:10px;
-    border-radius:10px;  
+    border-radius:15px;  
   }
   
   /* Header **/
@@ -137,6 +137,7 @@ body{
   
   #boxes .box img{
     width:170px;
+    border-radius:25px;  
   }
   
   /* sidebar */
